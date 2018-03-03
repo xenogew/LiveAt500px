@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1057269217332",
+    "firebase_url": "https://resplendent-inferno-8569.firebaseio.com",
+    "project_id": "resplendent-inferno-8569",
+    "storage_bucket": "resplendent-inferno-8569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057269217332:android:f3e6ac5e036ca98e",
+        "android_client_info": {
+          "package_name": "com.santasoft.doit.liveat500px"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057269217332-jj82isi23upet5l5kuimbk4ljqa56fo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpkvArqT6i9-2yIxe_2Q4304lXTHwaG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
